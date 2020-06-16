@@ -1,1 +1,0 @@
-Support MAC2600R
